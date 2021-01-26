@@ -1,0 +1,22 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "github jenkins test",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimchun/temp.git"
+  },
+  "keywords": [
+    "temp"
+  ],
+  "author": "chun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimchun/temp/issues"
+  },
+  "homepage": "https://github.com/kimchun/temp#readme"
+}
